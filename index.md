@@ -1,3 +1,4 @@
 # header
 
-added a header to index.md
+![Laughing Joe Emoji](https://emoji.gg/emojis/joe)
+
