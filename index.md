@@ -6,3 +6,7 @@
 ``` javascript
 window.onload = () => {};
 ```
+
+- [ ] run 20 million miles
+- [ ] don't let joe drink the milk
+- [x] fail
